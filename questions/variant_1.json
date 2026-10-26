@@ -1,0 +1,50 @@
+{
+    "name": "Вариант 1",
+    "duration_min": 60,
+    "tasks": [
+      {
+        "title": "Сумма двух чисел",
+        "description": "Считайте два целых числа через пробел и выведите их сумму.",
+        "examples": [
+          {"input": "2 3\n", "output": "5\n"}
+        ],
+        "tests": [
+          {"input": "2 3\n",     "output": "5"},
+          {"input": "10 -4\n",   "output": "6"},
+          {"input": "0 0\n",     "output": "0"},
+          {"input": "100 200\n", "output": "300"},
+          {"input": "-5 -5\n",   "output": "-10"}
+        ]
+      },
+      {
+        "title": "Максимум из трёх",
+        "description": "Считайте три числа через пробел и выведите наибольшее.",
+        "examples": [
+          {"input": "1 2 3\n", "output": "3\n"}
+        ],
+        "tests": [
+          {"input": "1 2 3\n",     "output": "3"},
+          {"input": "5 5 5\n",     "output": "5"},
+          {"input": "-1 -2 -3\n",  "output": "-1"},
+          {"input": "100 50 75\n", "output": "100"},
+          {"input": "7 100 8\n",   "output": "100"}
+        ]
+      },
+      {
+        "title": "Палиндром",
+        "description": "Считайте строку. Выведите YES, если она читается одинаково с обеих сторон, иначе NO. Регистр важен.",
+        "examples": [
+          {"input": "abba\n", "output": "YES\n"},
+          {"input": "abc\n",  "output": "NO\n"}
+        ],
+        "tests": [
+          {"input": "abba\n",  "output": "YES"},
+          {"input": "abc\n",   "output": "NO"},
+          {"input": "a\n",     "output": "YES"},
+          {"input": "Aa\n",    "output": "NO"},
+          {"input": "12321\n", "output": "YES"},
+          {"input": "hello\n", "output": "NO"}
+        ]
+      }
+    ]
+  }

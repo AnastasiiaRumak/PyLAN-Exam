@@ -1,0 +1,182 @@
+[
+  {
+    "login": "ivanov",
+    "password": "8hxu6f8d",
+    "name": "Иванов Иван",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "petrov",
+    "password": "ngc5cnpq",
+    "name": "Петров Пётр",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "sidorova",
+    "password": "v4vwbuz7",
+    "name": "Сидорова Мария",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "kuznetsov",
+    "password": "qpsth2em",
+    "name": "Кузнецов Алексей",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "smirnova",
+    "password": "wfdmwr23",
+    "name": "Смирнова Ольга",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "morozov",
+    "password": "4wwtsgfz",
+    "name": "Морозов Дмитрий",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "volkova",
+    "password": "zdkuyj4c",
+    "name": "Волкова Анна",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "sokolov",
+    "password": "fk85y8u6",
+    "name": "Соколов Артём",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "lebedeva",
+    "password": "32x3qx94",
+    "name": "Лебедева Екатерина",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "kozlov",
+    "password": "4mfhxyeu",
+    "name": "Козлов Никита",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "novikova",
+    "password": "7p7x9kef",
+    "name": "Новикова Татьяна",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "egorov",
+    "password": "ewtgec7v",
+    "name": "Егоров Сергей",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "pavlova",
+    "password": "ynh8yy3b",
+    "name": "Павлова Ирина",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "semenov",
+    "password": "kpwek54j",
+    "name": "Семёнов Павел",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "golubeva",
+    "password": "6m4r3dyv",
+    "name": "Голубева Ольга",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "vinogradov",
+    "password": "5p8p7p2h",
+    "name": "Виноградов Роман",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "bogdanova",
+    "password": "avr2k9e3",
+    "name": "Богданова Юлия",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "vorobev",
+    "password": "kxnvpzx7",
+    "name": "Воробьёв Максим",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "fedorova",
+    "password": "64zvk4n4",
+    "name": "Фёдорова Алина",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "mikhaylov",
+    "password": "sbcy7x33",
+    "name": "Михайлов Андрей",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "belova",
+    "password": "a57va8kc",
+    "name": "Белова Виктория",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "tarasov",
+    "password": "v6fvup6m",
+    "name": "Тарасов Игорь",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "kirillova",
+    "password": "hkse9ccd",
+    "name": "Кириллова Дарья",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "nikitin",
+    "password": "wtbzqnrc",
+    "name": "Никитин Владислав",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "orlova",
+    "password": "8d2u3qqr",
+    "name": "Орлова Софья",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "maksimov",
+    "password": "j2tfu3y3",
+    "name": "Максимов Алексей",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "andreeva",
+    "password": "rpbgjb9u",
+    "name": "Андреева Полина",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "kovalev",
+    "password": "dk94zr7k",
+    "name": "Ковалёв Денис",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "ilina",
+    "password": "9bf9z2xf",
+    "name": "Ильина Анастасия",
+    "group": "ИВТ-21"
+  },
+  {
+    "login": "gusev",
+    "password": "s7wwj2uy",
+    "name": "Гусев Кирилл",
+    "group": "ИВТ-21"
+  }
+]
